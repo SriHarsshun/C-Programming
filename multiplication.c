@@ -4,7 +4,7 @@
 int main()
 {
   int i,n;
-  printf("enter a digit for multiplicatuion table:");
+  printf("enter a digit for multiplication table:");
   scanf("%d",&n);
   for(i=1;i<=12;i++)
   {
